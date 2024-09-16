@@ -15,11 +15,19 @@ export default function App() {
             Tsebaot Melese
           </a>
           and is
-          <a href="" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/tseba21/React-weather"
+            target="_blank"
+            rel="noreferrer"
+          >
             on GitHub
           </a>
           and
-          <a href="" target="_blank" rel="noreferrer">
+          <a
+            href="https://celebrated-fairy-33b286.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             hosted on Netlify
           </a>
         </p>
